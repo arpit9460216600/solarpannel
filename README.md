@@ -1,1 +1,1 @@
-# solarpannel
+# solar_power
